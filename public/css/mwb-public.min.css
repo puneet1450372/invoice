@@ -1,0 +1,11 @@
+#isfw_guest_download_invoice a img{display:inline-block}div#isfw_guest_download_invoice a{display:flex;flex-wrap:wrap;align-items:center}#isfw_guest_download_invoice a span{margin-left:10px}div#isfw_guest_download_invoice>a:focus{outline:none}a.woocommerce-button.button.view{margin:0 -12px}td.woocommerce-orders-table__cell.woocommerce-orders-table__cell-order-actions a{margin:2px}
+.woocommerce-MyAccount-content .woocommerce-orders-table__cell-order-actions a {
+    display: inline-block;
+}
+a.woocommerce-button.button.view {
+     margin: 2px; 
+     min-width: 70px;
+}
+.woocommerce-orders-table__cell-isfw_invoice_download a img {
+    margin : 0 0 0 auto;
+}
