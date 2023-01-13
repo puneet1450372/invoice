@@ -1,14 +1,20 @@
 <wpml-config>
     <admin-texts>
-        <key name="isfw_company_name" />
-        <key name="isfw_company_address" />
-        <key name="isfw_company_city" />
-        <key name="isfw_company_state" />
-        <key name="isfw_company_pin" />
-        <key name="isfw_company_phone" />
-        <key name="isfw_company_email" />
-        <key name="isfw_invoice_number_prefix" />
-        <key name="isfw_invoice_number_suffix" />
-        <key name="isfw_invoice_disclaimer" />
+        <key name="pgfw_header_setting_submit">
+            <key name="pgfw_header_company_name" />
+            <key name="pgfw_header_tagline" />
+        </key>
+        <key name="pgfw_body_save_settings">
+            <key name="pgfw_body_watermark_text" />
+        </key>
+        <key name="pgfw_footer_setting_submit">
+            <key name="pgfw_footer_tagline" />
+        </key>
+        <key name="pgfw_general_settings_save">
+            <key name="pgfw_custom_pdf_file_name" />
+        </key>
+        <key name="pgfw_meta_fields_save_settings">
+            <key name="*" />
+        </key>
     </admin-texts>
 </wpml-config>

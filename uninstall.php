@@ -18,10 +18,10 @@
  * For more information, see the following discussion:
  * https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate/pull/123#issuecomment-28541913
  *
- * @link       https://makewebbetter.com/
+ * @link       https://wpswings.com/
  * @since      1.0.0
  *
- * @package    Invoice_system_for_woocommerce
+ * @package    Pdf_Generator_For_Wp
  */
 
 // If uninstall not called from WordPress, then exit.

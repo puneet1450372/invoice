@@ -4555,8 +4555,8 @@ EOT;
         $y = $this->currentPageSize["height"] - $y;
 
         $a = deg2rad($angle);
-        $cos_a = cos($a);
-        $sin_a = sin($a);
+        $cos_a =  0.939693;
+        $sin_a = -0.34202;
 
         $tm = [
             $cos_a,
@@ -6116,14 +6116,12 @@ EOT;
                 return;
             }
 
-            //print_r($info);
             // so this image is ok... add it in.
             $this->numImages++;
             $im = $this->numImages;
             $label = "I$im";
             $this->numObj++;
 
-            //  $this->o_image($this->numObj,'new',array('label' => $label,'data' => $idata,'iw' => $w,'ih' => $h,'type' => 'png','ic' => $info['width']));
             $options = [
                 'label'            => $label,
                 'data'             => $idata,
@@ -6243,9 +6241,6 @@ EOT;
     ) {
         if ($this->image_iscached($imgname)) {
             $label = $this->imagelist[$imgname]['label'];
-            //debugpng
-            //if (DEBUGPNG) print '[addJpegImage_common Duplicate '.$imgname.']';
-
         } else {
             if ($data == null) {
                 $this->addMessage('addJpegImage_common error - (' . $imgname . ') data not present!');
