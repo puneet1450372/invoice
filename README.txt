@@ -1,311 +1,260 @@
-=== Invoice System for WooCommerce- Automate & Manage PDF Invoices, Packing Slips, Shipping Labels and Delivery Notes ===
-Contributors: MakeWebBetter
-Donate link:  https://makewebbetter.com/
-Tags: invoice, invoice system, packing slips, invoicing, invoices, woo invoices, print Invoice, invoice plugin
-Requires at least: 4.6
-Tested up to: 5.8.2
-WC requires at least: 4.0.0
-WC tested up to: 6.0.0
-Stable tag: 2.0.0
+=== PDF Generator for WordPress - Create & Customize PDF for Post, Pages and WooCommerce Products ===
+Contributors: wpswings
+Donate link: https://wpswings.com/
+Tags: PDF, PDF creator, PDF generator, PDF maker, WordPress pdf generator
+Requires at least: 5.2.0
+Tested up to: 6.1.1
+WC requires at least: 5.2.0
+WC tested up to: 7.1.0
+Stable tag: 1.1.1
 Requires PHP: 7.2
-License: GNU General Public License v3.0
+License: GPLv3 or later 
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-
-Create, download, save & email the invoices & packing slips to your customers for every WooCommerce order with this Invoice System for WooCommerce plugin.
+PDF Generator for WordPress allows you to convert posts into PDF files to share information across multiple channels. 
 
 == Description ==
+**PDF GENERATOR FOR WORDPRESS PLUGIN LETS YOU CREATE PDFs OF PAGES, PRODUCTS, AND POSTS FOR BETTER DISPERSAL OF BRAND INFORMATION WITH WPML COMPATIBILITY. YOU CAN MAKE OR CREATE PDFs EASILY FOR YOUR WEBSITES.** 
 
-***THE INVOICE SYSTEM FOR WOOCOMMERCE PLUGIN OUGHTS TO SOLVE ALL YOUR INVOICING PROBLEMS LIKE CREATING WOO INVOICES. THIS INVOICE PLUGIN ALSO HELPS YOU TO PRINT INVOICES AND PACKING SLIPS***
+PDF Generator for WordPress provides the key support in portfolio building depending on your industry type. The PDF plugin for WordPress allows you to create PDF files for the pages to ensure the availability of information offline. It allows the admin to convert all the posts, pages, blogs, and products on their website into PDF files. 
 
-Invoice System for WooCommerce plugin is a simple but features-oriented extension for your WooCommerce stores. This plugin automatically generates WooCommerce PDF invoices and attaches them to the relative WooCommerce emails. 
+Users can download PDFs from the WordPress site or view them in a new tab. Also, the admin can authorize users to receive their PDFs at their email addresses. The WordPress PDF creator makes sharing information seamless across different channels. You can predefine the settings to customize the header, the body, and the footer. Users can non-commercially distribute the downloaded PDF files with [**WordPress PDF Generator Pro**](https://wpswings.com/product/pdf-generator-for-wp-pro/?utm_source=wpswings-pdf-pro&utm_medium=wpswings-org-page&utm_campaign=pdf-pro) plugin. The admin can customize the free wordpress pdf template to align with their brand. So, the distribution of PDFs provides an opportunity for brand promotion.
 
-The Invoice System for WooCommerce plugin is also useful for the business houses generating bulk invoices. This Invoice System for WooCommerce plugin also offers the choice between multiple templates and additional customization features that lures your interest more in this plugin.
+[youtube  https://www.youtube.com/watch?v=RljECeP3JJk&t=1362s]
 
-***
->**IMPORTANT NOTICE:**
+== WITH THE PDF GENERATOR FOR WORDPRESS PLUGIN YOU CAN: ==
 
->_**From this version update, we would be discontinuing this plugin and its support. We had a great time serving everyone with the tool and learned a lot. People still interested in the tool functionalities may please check other tool recommendations.**_
+* Convert all the posts, pages, blogs, and products into PDF files.
+* Now update PDF icon visibility based on user roles.
+* Export posts, products, and pages into PDF format in bulk with the default PDF template.
+* Add footer customizations for post name, post date, and author name.
+* Display more than one image in a row.
+* Display more than one meta field in a row as per requirement.
+* Display icon to both guest users and registered users.
+* Allow direct download of pdf files or send them to users’ email addresses. 
+* Get a Shortcode to add the PDF icon anywhere on the page.
+* Get a shortcode to insert your own pdf.
+* Set the PDF download button’s location. 
+* Set a custom PDF download icon.
+* Predefined header, footer, and body settings.
+* Include author details. 
+* Compatible with WPML, thus facilitating your multilingual audience.
+* Compatible with WordPress Multisite
 
->_**Please Visit [**WP Swings**](https://wpswings.com/?utm_source=wpswings-official&utm_medium=org-page&utm_campaign=org-discontinue-plugin) for all your WordPress/WooCommerce solutions.**_
+== PDF GENERATOR PLUGIN MEETS YOUR REQUIREMENT, SO ==
 
-***
+[**Download Now**](https://downloads.wordpress.org/plugin/pdf-generator-for-wp.zip)
 
-[youtube https://youtu.be/SnPdLFDGFqw&w=560&h=315&rel=0]
+== WHAT’S INCLUDED IN OUR PDF GENERATOR FOR WORDPRESS PLUGIN == 
 
-== USING THE INVOICE SYSTEM FOR WOOCOMMERCE,YOU CAN : ==
-* Generate Invoices and packing slips for your WooCommerce setup
-* Share WooCommerce PDF invoices with customers via email
-* Simplify the billing confusions for your customers 
-* Eliminate manual errors while creating invoices for products
-* Increase brand awareness with custom invoice designs and templates
-* Reduce-costs with automated PDF invoices
+**1) Include Important Details**
+The General Settings in the PDF plugin allows you to include important information in the generated PDF files. The plugin lets you display the categories, tags, taxonomy, post date, and author name. 
 
+**2) Display PDF Icon Based on User Roles**
+With the help of our latest update in the WordPress PDF plugin, you can now restrict the visibility of the PDF icon on your website for different user roles such as administrator, author, editor, and so on. This will assist you a great deal in increasing quality leads from your website itself. 
 
+**3) Bulk Export**
+You can export PDF files for products, pages, and posts in bulk using the default template provided in our free WordPress PDF plugin generator.
 
-== PLUGIN MEETS YOUR REQUIREMENT, SO ==
-[**Download Now !!**](https://downloads.wordpress.org/plugin/invoice-system-for-woocommerce.zip)
+**4) Add Footer Customizations** 
+Our latest plugin brings in the footer customization options for you. You can now add the post name, post date, and author name to the pages of your generated PDF files.
 
-> Visit [**Invoice System for WooCommerce Documentation**](https://docs.makewebbetter.com/invoice-system-for-woocommerce/?utm_source=MWB-invoice-org&utm_medium=MWB-ORG-Page&utm_campaign=MWB-doc) and learn more about the features and working of the plugin.
+**5) Display More Images In a Row**
+We have solved displaying your post or product images in a better format in our latest update for the PDF creator plugin. You can now display more than one image in a row using the functionalities of this PDF plugin by turning on the setting from the body settings tab.
 
-> Checkout [**Plugin Knowledgebase**](https://support.makewebbetter.com/wordpress-plugins-knowledge-base/category/invoice-system-for-woocommerce-kb/?utm_source=MWB-invoice-org&utm_medium=MWB-ORG-Page&utm_campaign=MWB-doc) 
 
+**6) Control The Display Of Functionality**
+From the display settings of the PDF icon, you can choose to display the PDF generator icon to either the registered users or the guest users or both. You can also opt to allow, both, the registered and guest users to either directly download the information in PDF format or e-mail the PDF file to the user.
 
+**7) Icon Settings**
+WordPress PDF Generator gives you a free hand to customize the plugin icon for the front end of your website. You can also set the size of the PDF generator icon as per the design and theme requirements of the WordPress site. Display settings in the plugin allow several positions to place the icon, also letting you set the alignment of the same to center, right, and left.
 
-== WHAT'S INCLUDED IN OUR FREE INVOICE SYSTEM FOR WOOCOMMERCE PLUGIN : ==
+**8) Predefine Header Settings**
+The layout settings authorize you to tailor-make the header settings. You can upload the company logo and details besides setting the header width. Layout settings also allow you to set the font and font size. 
 
-**1)** **View or Download Invoice**
+**9) Predefine Body Settings**
+Body settings have many features to let you set the page orientation, page size, and title settings. You can also predefine the content font settings, font color, page margin, and border settings. This plugin also provides RTL support for Hebrew and Arabic languages. You can add a watermark to represent your brand in the layout settings.
 
-This new feature of the Invoice System for WooCommerce plugin allows the customers to either view or save the invoice by downloading it. The admin can select either option from the backend settings for its customers’ convenience.
+**10) Predefine Footer Settings**
+You can set the size and width of the footer using the layout settings. It also allows you to set the footer text font and size as well. 
 
+**11) Relevant Post Types And Appropriate Meta Fields**
+The plugin gives you the option to make the post visible only for relevant post types such as post, page, or product, depending on the utility of your content. The admin is also authorized to set the meta fields that you wish to display in the posts, pages or products, individually.
 
-**2)** **Manage Plugin General Setting & Invoice Settings Separately**
+**12) Upload Your PDF Files** 
+The plugin allows you to upload your own PDF files for download. You can also limit access to these files for registered users or guest users.
 
-This WooCommerce invoicing plugin allows the admin to configure and work on plugin general settings and Invoice settings separately to avoid confusion while designing invoices.
+Visit [**PDF Generator for WordPress Documentation**](https://docs.wpswings.com/pdf-generator-for-wp/?utm_source=wpswings-pdf-docs&utm_medium=wpswings-org-page&utm_campaign=documentation) and learn more about the features and working of the plugin.
 
-**3)** **Pre-built Invoice Templates**
+== LIVE DEMO OF PDF GENERATOR PLUGIN ==
 
-The Invoice System for WooCommerce plugin provides 2 fully customizable invoice templates to enhance brand value for the products.
+* [**WordPress PDF Generator Frontend demo**](https://demo.wpswings.com/pdf-generator-for-wp-pro/?utm_source=wpswings-pdf-demo&utm_medium=wpswings-org-page&utm_campaign=frontend-demo)
 
-**4)** **Add Company Name to Invoices**
+* [**WordPress PDF Generator Backend demo**](https://demo.wpswings.com/pdf-generator-for-wp-pro/request-for-personal-demo/?utm_source=wpswings-pdf-demo&utm_medium=wpswings-org-page&utm_campaign=backend-demo)
 
-Using this WooCommerce Invoice plugin, the admin can add the name of their company on the invoices for their customers’ ease to remember their brand.
+== WHAT PREMIUM VERSION OF WORDPRESS PDF GENERATOR PLUGIN OFFERS ==
 
+* Display more than 1 meta field in a row.
+* Upload TTF font.
+* Allow admin to rename meta fields while listing in PDF.
+* Allow admin to choose taxonomy just like meta fields and rename keys.
+* Customization of header and footer from the editor.
+* Set content alignment position left or right.
+* Detailed Logging of PDFs generated.
+* Download PDF from the server or generate it every time.
+* Bulk download or email in the continuation or in a zip folder.
 
+== TAKE ADVANTAGE OF EXCLUSIVE FEATURES OF PDF GENERATOR FOR WP PLUGIN ==
 
-**5)** **Share Invoices via Email**
+PDF Generator for WordPress Pro plugin generates PDF that can be read or shared anytime with an added feature of watermark & bulk generation.
 
-This invoice plugin allows you to share individual or bulk invoices and packing slips with the concerned customers via WooCommerce email.
+> Note:  Get [**PDF Generator For WP Pro**](https://wpswings.com/product/pdf-generator-for-wp-pro/?utm_source=wpswings-pdf-pro&utm_medium=wpswings-org-page&utm_campaign=pdf-pro)
 
-**6)** **Customizable Invoice Number**
+== See What Quebec Preppers is Saying about PDF Generator For WordPress ==
 
-Admin can add/remove prefixes and suffixes to the invoice number to provide a more personalized perception to customers. Also, the admin can set the auto-increment feature to generate invoice numbers automatically.
+> PDF generator is a very good product that will facilitate the export of articles in pdf version. [**See PDF Generator Case Study**](https://wpswings.com/case-studies/quebec-preppers/?utm_source=wpswings-pdf-case-study&utm_medium=pdf-org-page&utm_campaign=pdf-case-study)
 
+== DOCUMENTATION OF PREMIUM VERSION ==
 
-
-**7)** **Easy Downloading of PDF Invoices** 
-
-This Invoice System for WooCommerce plugin gives admin and customers an equal right to download the invoices in PDF format from the Order Admin page and My Account page respectively.
-
-**8)** **Renew Invoice Number Sequence**
-
-Invoice System for WooCommerce plugin also allows the admin to renew the invoice number sequence with every new financial year.
-
-**9)** **Invoice Number Renew Date Selector**
-
-Using this feature of the WooCommerce Invoice System plugin, the admin can select the date range to renew the invoice numbers.
-
-**10)** **Generate Bulk Invoices & Packing Slips**
-
-Invoice System for WooCommerce plugin allows the admin to generate PDF invoices and packing slips in bulk.
-
-**11)** **Downloadable Invoices for Customers**
-
-The admin can now allow their users to download multiple invoices with the “multiple select” feature of the Invoice System for the WooCommerce plugin.
-
-
-> Note:  This Invoice System for the WooCommerce plugin is compatible with multiple Payment Gateways.
-
-**LIVE DEMO OF FREE VERSION**
-
-* [**Invoice System for WooCommerce Free demo**](https://demo.makewebbetter.com/invoice-system-for-woocommerce/checkout/order-received/130/?key=wc_order_44cagMaZXjKYp&utm_source=MWB-invoice-org&utm_medium=MWB-ORG-Page&utm_campaign=MWB-free_demo)
-
-== PLUGIN COMPATIBILITIES ==
-
- **1)** [**WooCommerce RMA For Return Refund & Exchange**](https://makewebbetter.com/product/woocommerce-rma-return-refund-exchange/?utm_source=invoice-org&utm_medium=invoice-plugin&utm_campaign=invoice-page) ([**Free Download!!**](https://wordpress.org/plugins/woo-refund-and-exchange-lite/))
-
-Return Refund and Exchange for WooCommerce lets you create a simple refund management system stuffed with the organized refund, exchange, wallet, and cancel order features. 
-
-
-**2)** [**WooCommerce Wallet System**](https://makewebbetter.com/product/woocommerce-wallet-system/?utm_source=invoice-org&utm_medium=invoice-plugin&utm_campaign=invoice-page) ([**Free Download!!**](https://wordpress.org/plugins/wallet-system-for-woocommerce/))
-
-Wallet System for WooCommerce is a digital wallet plugin. It helps the merchant implement a digital wallet system on their WooCommerce store. And allows customers to perform eCommerce transactions using the wallet system.
-
-
-**3)** [**Membership For WooCommerce Pro**](https://makewebbetter.com/product/membership-for-woocommerce-pro/?utm_source=invoice-org&utm_medium=invoice-plugin&utm_campaign=invoice-page) ([**Free Download**!!](https://wordpress.org/plugins/membership-for-woocommerce/))
-
-Membership for WooCommerce plugin provides a restriction on access for any facility that adds recurring revenue based on membership and helps engage customers using membership plans
-
-**4)**  [**WooCommerce Order Tracker**](https://codecanyon.net/item/woocommerce-order-tracker/19814717)
-
-WooCommerce Order Tracker displays order status with interactive graphics and allows customers to track their estimated delivery.
-The whole process of the tracking system is simple and streamlined which keeps the customer aware of their WooCommerce order status. Customers can track their orders with the order numbers and tracking URLs.
-
-**5)** [**WooCommerce One Click Upsell Funnel Pro**](https://makewebbetter.com/product/woocommerce-one-click-upsell-funnel-pro/?utm_source=invoice-org&utm_medium=invoice-plugin&utm_campaign=invoice-page) ([**Free Download**!!](https://wordpress.org/plugins/woo-one-click-upsell-funnel/))
-
-One Click Upsell Funnel for WooCommerce plugin offers post-purchase upsell offers, i.e. after the checkout is done.
-
-**6)** **WPML Compatibility** 
-
-Invoice plugin lets authors write content in different languages and translate content. It also includes advanced features for translation management and an interface for professional content translation.
-
-**7)** **Multisite**
-
-Multisite is a type of WordPress installation that allows you to create and manage a network of multiple websites from a single WordPress dashboard. This lets you easily make changes and keep all of your websites updated from one place.
-
-== THEMES COMPATIBILITY == 
-
-**Invoice System for WooCommerce** plugin works perfectly with all the themes. 
-
-== THERE'S MORE YOU CAN DO WITH INVOICE SYSTEM FOR WOOCOMMERCE [PREMIUM UPGRADE] ==    
-
-* Merchants can create credit and debit notes to customers involved in refund/return activities
-* WooCommerce invoices can be shared with customers as an email attachment and as a separate PDF file too
-* Merchants can also share the individual or bulk invoices manually
-* Customizable file name format for PDF invoices, and fully customizable templates from Gutenberg Editor.
-* Enable/disable credit and debit notes working.
-* Add Meta fields on invoices and packing slips with desired Title and place.
-* Merchant can select the location to save the PDF invoices either on the same server or dropbox
-* The inbuilt- reporting feature will give an upper hand to merchants by showing each data over a Separate page like all invoices and forms Admin can also filter invoices by date range. 
-* Merchant can download (single or bulk) filtered invoices
-* Merchant can preview the invoice template design and redesign if the changes are required for the custom invoice templates.
-* The merchant can share the Invoice PDF with the “Pay Now” link for the orders with “Payment Pending” status.
-
-And more...
-
-
-== TAKE ADVANTAGE OF EXCLUSIVE FEATURES OF INVOICE PRO PLUGIN ==
-
-> Note:  Get [**WooCommerce PDF Invoice With Packing Slip**](https://makewebbetter.com/product/woocommerce-pdf-invoice-packing-slip/?utm_source=MWB-invoice-org&utm_medium=MWB-ORG-Page&utm_campaign=MWB-invoice-pro)
-
-
-== LIVE DEMO OF PREMIUM VERSION ==
-
-* [**WooCommerce PDF Invoice with Packing Slip Frontend Demo**](https://demo.makewebbetter.com/woocommerce-pdf-invoice-packing-slip/?utm_source=MWB-invoice-org&utm_medium=MWB-ORG-Page&utm_campaign=pdf-invoice-frontend)
-* [**WooCommerce PDF Invoice with Packing Slip Backend Demo**](https://demo.makewebbetter.com/woocommerce-pdf-invoice-packing-slip/get-personal-demo/?utm_source=MWB-invoice-org&utm_medium=MWB-ORG-Page&utm_campaign=pdf-invoice-backend)
-
-> Checkout the documentation of our pro plugin to better understanding of functionalities [**WooCommerce PDF Invoice with Packing Slip Documentation**](https://docs.makewebbetter.com/mwb-woocommerce-pdf-invoice-with-packing-slip/?utm_source=MWB-invoice-org&utm_medium=MWB-ORG-Page&utm_campaign=MWB-doc)
-
+* [**PDF Generator For WP Pro Documentation**](https://docs.wpswings.com/pdf-generator-for-wp-pro/?utm_source=wpswings-pdf-doc&utm_medium=pdf-org-page&utm_campaign=pro-doc)
 
 == SUPPORT ==
 
-If you need support or have any question then kindly use our online chat window   [here](https://makewebbetter.com/?utm_source=MWB-invoice-org&utm_medium=MWB-ORG-Page&utm_campaign=MWB-support) or  connect with us then [**Generate a Ticket**](https://makewebbetter.com/submit-query/?utm_source=MWB-invoice-org&utm_medium=MWB-org-page&utm_campaign=MWB-invoice-org)
-> If our documentation doesn’t contain the solution to your problem, you can visit the [*MakeWebBetter Forums*](https://forums.makewebbetter.com/?utm_source=MWB-invoice-org&utm_medium=MWB-org-page&utm_campaign=MWB-invoice-org) with your question.
+If you need support or have any questions then kindly use our online chat window [**here**](https://wpswings.com/?utm_source=wpswings-pdf-here&utm_medium=wpswings-org-page&utm_campaign=here) or  connect with us then [**Generate a Ticket**](https://wpswings.com/submit-query/?utm_source=wpswings-pdf-tickets&utm_medium=wpswings-org-page&utm_campaign=generate-tickets)
 
+> If our documentation doesn’t contain the solution to your problem, you can visit the [**WP Swings Forums Community**](https://forums.wpswings.com/?utm_source=wpswings-forums&utm_medium=pdf-org-page&utm_campaign=forum)
 
+> Create and Revamp your eCommerce store with [**WooCommerce Services**](https://wpswings.com/woocommerce-services/?utm_source=wpswings-services&utm_medium=pdf-org-page&utm_campaign=woocommerce-services)
 
-== INSTALLATION ==
+== Installation ==
 
 = Automatic installation =
 
-Automatic installation is the easiest option as WordPress handles the file transfers itself and you don't need to leave your web browser. To do an automatic install of Invoice System For WooCommerce, log in to your WordPress dashboard, navigate to the Plugins menu, and click Add New.
+Automatic installation is the easiest option as WordPress handles the file transfers itself and you don't need to leave your web browser. To do an automatic install of PDF Generator for WordPress, log in to your WordPress dashboard, navigate to the Plugins menu, and click Add New.
 
-In the search field type "Invoice System For WooCommerce" and click Search Plugins. Once you've found our plugin you can view details about it such as the point release, rating, and description. Most importantly, of course, you can install it by simply clicking "Install Now".
+In the search field type "PDF Generator for WordPress" and click Search Plugins. Once you've found our plugin you can view details about it such as the point release, rating, and description. Most importantly, of course, you can install it by simply clicking "Install Now".
 
 = Manual installation =
 
-The manual installation method involves downloading our Invoice System For WooCommerce and uploading it to your webserver via your favorite FTP application. The WordPress contains [instructions on how to do this here](https://wordpress.org/support/article/managing-plugins/#manual-plugin-installation).
+The manual installation method involves downloading our PDF Generator for WordPress and uploading it to your webserver via your favourite FTP application. The WordPress contains [instructions on how to do this here](https://wordpress.org/support/article/managing-plugins/#manual-plugin-installation).
 
 = Updating =
 
-Automatic updates should work like a charm; as always though, ensure you backup your site just in case. 
-
+Automatic updates should work like a charm; as always though, ensure you backup your site just in case.
 
 == FAQ ==
 
-=  Can we check the in pdf invoice in the new tab? =
- 
- Yes you can check the pdf invoice in the new tab as well as you can download the invoice also. For this please go to the General settings>> How do you want to view PDF >> select the option according to your need.
+= Can We Edit The Front/First Page Of The PDF By Itself? = 
+Yes, you can edit the front page for this go to the plugin setting>Pdf first-page setting>custom template here you can edit your template accordingly.
 
-= Can we send the invoice attachment with order details in email? =
+= Can customers directly download the PDF on their local devices? =
+Yes, customers can directly download the PDF on their local devices.
 
-Yes, Invoice attachments can be sent with order details in an email by selecting the order status from the backend settings.
+= How can one add the PDF button on a single product page? =
+We have already provided the shortcode. You can use that shortcode to place the PDF button on a particular product page so you can generate PDF from the page.
 
-=  How can admin generate bulk invoices? =
-     
- The Admin can generate invoices in bulk. For this please go to the admin dashboard >> WooCommerce >> Order tab select all the order >> Select download invoice in bulk >> apply.
+= How to place the PDF button appropriately for my uploaded document? =
+Go to WP Swings--> PDF Generator for WordPress--> PDF Upload. Click on the Upload Doc button to upload your PDF file. Click on the Save Settings button. The shortcode will be generated. Use this shortcode to place your PDF icon appropriately for your users.
 
-= Can we customize the invoice templates according to our needs? =
+= Can I rename the meta fields for posts, pages, and products? =
+You can rename the meta fields and taxonomies in the premium version of the PDF Generator plugin.
 
-Yes, Admin can customize the invoice according to their need for this Go to the plugin settings where they can change company details, invoice number, disclaimer text, color and choose logo according to their requirement.
-
-= Can admin select prefix or suffix or both for their invoice number? =
-
- Yes, Admin can add prefix or suffix or both for their invoice number. For this please go to the plugin settings >>General settings >> Invoice number >> Select prefix or suffix and save changes.
-
- = My question is not listed =
-
-  Please visit the  [**MakeWebBetter Knowledgebase**](https://support.makewebbetter.com/wordpress-plugins-knowledge-base/category/invoice-system-for-woocommerce-kb/?utm_source=MWB-invoice-org&utm_medium=MWB-ORG-Page&utm_campaign=MWB-doc)  and for more detailed visit [**Invoice System for WooCommerce Documentation**](https://docs.makewebbetter.com/invoice-system-for-woocommerce/?utm_source=MWB-invoice-org&utm_medium=MWB-ORG-Page&utm_campaign=MWB-doc)
+= My Question Is Not Listed? =
+Visit her [**WP Swings Plugin Knowledge Base**](https://support.wpswings.com/wordpress-plugins-knowledge-base/category/pdf-generator-for-wp/?utm_source=wpswings-pdf-kb&utm_medium=pdf-org-page&utm_campaign=kb)
 
 == Screenshots ==
 
-1. General Settings
-2. Invoice Settings
-3. System Status
-4. Enable Plugin
-5. Automatically Attach Invoice
-6. Order Status to send Invoice for 
-7. Download Invoice for users at Order Status  
-8. Generate Invoice from Cache
-9. Invoice Number Renew Date 
-10. Invoice template - 1
-11. Invoice template - 2
-12. Download Invoice 
-13. Download Packing Slip 
-14. Order Details
-15. Order Received 
-16. Bulk Action -> Download PDF
-17. Bulk Action -> Download Packing Slip 
-
-
+1. General setting
+2. PDF setting
+3. Direct download pdf
+4. Pdf icon setting
+5. PDF Header setting
+6. PDF Body setting
+7. PDF Page setting
+8. PDF Border setting
+9. PDF Watermark setting
+10. PDF Page template setting 
+11. PDF Footer setting
+12. PDF Advanced setting
+13. PDF Meta-field setting
+14. PDF Upload setting
+15. WPML Setting
 
 == Changelog ==
 
-= 2.0.0 - RELEASED ON 17 DECEMBER 2021 =
+= 1.1.1 - Released on 23 November 2022 =
 
-* New: View Invoices (for Customers)
-* New: Preview Invoice Template Design
-* New: Share Pay Now Link with Invoice PDF
+* New: Compatible with latest WP and WC
+* Fix: For showing gallery images row-wise in the default template you need to check the checkbox provided inside the body tab
+
+= 1.1.0 - Released on 27 September 2022 =
+
+* New: Compatible with latest WP and WC
+* New: Compatible with php8
+* New: Show pdf icon based on the selected user roles 
+* Fix: Minor bug fixes (font and template issues)
+
+= 1.0.9 - Released on 21 July 2022 = 
+
+* New: Export PDF( Post, Pages and Product) in  Bulk  from Admin Dashboard
+* Fix:  Minor Bug Fixes
+
+= 1.0.8 - Released on 26 June 2022 =
+
+* New: Added Footer Customization (Author, Date and Title)
+* New: Added Show Multiple Images In A Single Row
+* New: Added Show Meta Fields Row Wise 
+* Fix: Minor Bug Fixes
+
+= 1.0.7 - Released on 20 May 2022 =
+
+* New: Minor Bug Fixes
+* New: Compatible with latest WP and WC
+
+= 1.0.6 - Released on 11 April 2022 =
+
+* New: Some substantial changes across different areas of the plugin.
+* New: Compatible with latest WP and WC
+* Fix: Minor Bug Fixes
+
+= 1.0.5 - Released on 03 February 2022 =
+
+* New: Change author from MakeWebBetter to WP Swings
+* New : Notice display of current version for [**WP Swings**](https://wpswings.com/?utm_source=wpswings-official&utm_medium=pdf-org-page&utm_campaign=official).
+* New: Compatible with latest WP and WC
 * Fix: Minor bug fixes
 
-= 1.0.5 - RELEASED ON 19 NOVEMBER 2021 =
+= 1.0.4 - Released on 26 November 2021 =
 
-* New: Compatibility with WooCommerce 5.9.0 and WordPress 5.8.2 
-* New: Compatible with [**WooCommerce One Click Upsell Funnel Pro**](https://makewebbetter.com/product/woocommerce-one-click-upsell-funnel-pro/?utm_source=invoice-org&utm_medium=invoice-plugin&utm_campaign=invoice-page) ([**Free Download**!!](https://wordpress.org/plugins/woo-one-click-upsell-funnel/))
+* New : Compatibility with latest WP(5.8.2) and WC(5.9).
 * Fix: Minor bug fixes
 
-= 1.0.4 - RELEASED ON 28 OCTOBER 2021 =
+= 1.0.3 - Released on 29 October 2021 =
 
-* New: Compatibility with WooCommerce 5.8.0 and WordPress 5.8.1
-* New: Compatible with Multisite
-* New: In custom templates, shortcodes can be used to add meta fields to invoices at the desired location
-* New: Compatible with [**Membership For WooCommerce Pro**](https://makewebbetter.com/product/membership-for-woocommerce-pro/?utm_source=invoice-org&utm_medium=invoice-plugin&utm_campaign=invoice-page) ([**Free Download**!!](https://wordpress.org/plugins/membership-for-woocommerce/))
+* New: Multisite Compatibility added
 * Fix: Minor bug fixes
 
-= 1.0.3 - RELEASED ON 6 SEPTEMBER 2021 =
+= 1.0.2 - Released on 21 September 2021 =
 
-* New: Compatibility with WooCommerce 5.6.0 and WordPress 5.8
-* New: Compatible with WPML
+* New: WPML Compatibility
 * Fix: Minor bug fixes
 
-= 1.0.2 - RELEASED ON 10  AUGUST 2021 =
+= 1.0.1 - Released on 30 July 2021 =
 
-* New: Compatibility with WooCommerce 5.5.2 and WordPress 5.8
-* New: Compatible with  [**Return Refund and Exchange For WooCommerce**](https://wordpress.org/plugins/woo-refund-and-exchange-lite/)
-* New: Compatible with  [**Wallet System For WooCommerce**](https://wordpress.org/plugins/wallet-system-for-woocommerce/)
-* New: Compatible with [**WooCommerce Order Tracker**](https://codecanyon.net/item/woocommerce-order-tracker/19814717)
+* New: Shortcode updated
 * Fix: Minor bug fixes
+* Fix: Content issue resolved while using shortcode.
 
 
+= 1.0.0 =
+* First version. 
 
-= 1.0.1 - RELEASED ON 16 JULY 2021 =
-
-* New: Compatibility with WooCommerce 5.4.1 and WordPress 5.7.2
-* Minor issues fixes 
-* Added multiple select option for users to give access to download invoice
-* Separate tab for general and invoice settings
-* Added company name on invoice for customer
-
-
-= 1.0.0 - RELEASED ON 26 MARCH 2021 =
-
-* First version
 
 == Upgrade Notice ==
 
-= 2.0.0 - RELEASED ON 17 DECEMBER 2021 =
+= 1.1.1 - Released on 23 November 2022 =
 
-* New: View Invoices (for Customers)
-* New: Preview Invoice Template Design
-* New: Share Pay Now Link with Invoice PDF
-* Fix: Minor bug fixes
+* New: Compatible with the latest WP and WC
+* Fix: For showing gallery images row-wise in the default template you need to check the checkbox provided inside the body tab
+
+

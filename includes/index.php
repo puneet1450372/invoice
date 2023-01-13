@@ -1,14 +1,15 @@
 <?php
 /**
- * Provide a includes
+ * The file that defines the core plugin class
  *
- * This file is used to markup the html field for includes tab.
+ * A class definition that includes attributes and functions used across both the
+ * public-facing side of the site and the admin area.
  *
- * @link       https://makewebbetter.com/
+ * @link       https://wpswings.com/
  * @since      1.0.0
  *
- * @package    Invoice_system_for_woocommere
- * @subpackage Invoice_system_for_woocommere/includes
+ * @package    Pdf_Generator_For_Wp
+ * @subpackage Pdf_Generator_For_Wp/includes
  */
 
-esc_html_e( 'oops looks like nothing is here', 'invoice-system-for-woocommerce' );
+// silence is golden.

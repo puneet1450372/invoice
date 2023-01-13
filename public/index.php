@@ -1,8 +1,12 @@
 <?php
 /**
- * This file is empty.
+ * The admin-specific functionality of the plugin.
  *
- * @package invoice-system-for-woocommerce
+ * @link       https://wpswings.com/
+ * @since      1.0.0
+ *
+ * @package    Pdf_Generator_For_Wp
+ * @subpackage Pdf_Generator_For_Wp/admin
  */
 
-esc_html_e( 'oops looks like you missed it', 'invoice-system-for-woocommerce' );
+// silence is golden.
